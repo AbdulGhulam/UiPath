@@ -1,0 +1,342 @@
+Course  CS 1136 Computer Science Laboratory 
+Professor  Don Vogel 
+Term  Spring 2019 
+ 
+Various sections. See the table at the bottom of the syllabus for 
+ 
+details. Lab room is ECSS 2.103. 
+ 
+Professor’s Contact Information 
+Office Phone  972-883-3551 
+Office Location  ECSS 3.211 
+Email Address  don.vogel@utdallas.edu 
+Wednesday: 11:00 am – noon, 1:00 pm – 3:00 pm 
+Office Hours  Tuesday and Thursday: 1:30 pm – 3:30 pm 
+Available by appointment for other times 
+ 
+General Course Information 
+Co-requisites  CS 1336 is a co-requisite for this course 
+Computer Science Laboratory  
+Introduction to computers. Primitive data types, variable declarations, variable 
+scope, and primitive operations. Control statements. Methods/functions. Arrays, 
+and strings using primitive data arrays. Output formatting. Debugging 
+Course 
+techniques.  
+Description 
+ 
+Designed for students with no prior computer programming experience. This 
+class cannot be used to fulfill degree requirements for majors in the School of 
+Engineering and Computer Science. 
+  Ability to develop algorithmic solutions for use on computers 
+  Ability to perform console input and output, utilize basic operators, and 
+perform sequential processing 
+Learning 
+  Ability to utilize the basic control structures for selection  
+Outcomes    Ability to utilize the basic control structures for repetition logic 
+  Ability to perform sequential file input and output 
+  Ability to develop programs in a functional form 
+  Ability to process data in arrays     
+You must have a subscription to zyBooks. There are two ways to get a 
+subscription. See the Course Homepage section on eLearning for details on 
+purchasing a subscription to zyBooks.  
+ 
+The information is also included here: 
+ 
+There are two ways to get a subscription to zyBooks. 
+ 
+One way is to purchase a copy with a credit card.  
+ 
+Text 
+  Make sure you know what sections of CS 1336 and CS 1136 you are 
+taking. There is a table at the bottom of the syllabus. Verify that you are 
+in the CS 1136 section that corresponds to your CS 1336 section. If this 
+is not the cases contact the instructor, Don Vogel, at 
+don.vogel@utdallas.edu before you subscribe to zyBooks.  
+  Sign in or create an account at http://learn.zybooks.com. Use your UTD 
+e-mail address (netid@utdallas.edu). You will need to create a password 
+for this account. You should not use your UTD e-mail password.  
+  Enter zyBooks code UTDALLASCS1136LabAVogelSpring2019 
+  Subscribe 
+CS 1136.xxx A lab sequence – Spring 2019 – v2   The section number is your course code and section number: 
+CS1136.xxx (where xxx is the section number of CS 1136 course you 
+are enrolled in). 
+ 
+The second way is to purchase a copy at the UTD bookstore. The ISBN for Lab 
+A is 978-1-5418-6004-9. 
+ 
+A subscription (option one) is $42 and will last until May 25, 2019. Students will 
+be able to subscribe until April 25, 2019. You need to subscribe right away so 
+you can start lesson 1.  The price for option two may be different.  
+  Starting Out with C++, From Control Structures through Objects (9th 
+edition); Gaddis, Tony; Addison-Wesley Publishing. ISBN 978-0-13-
+449837-9.   This is the text book for CS 1336.  
+Suggested Text 
+  C++ language tutorial: http://www.cplusplus.com/files/tutorial.pdf 
+and Materials 
+  C++ reference: http://www.cppreference.com 
+  C++ tutorial: http://www.learncpp.com/ 
+ 
+For lab lessons 1, 2 and 3 you will enter your C++ programs directly into the 
+zyBooks/zyLabs environment. For lab lessons 4 through 11 will upload your 
+C++ program files to the zyBooks/zyLabs environment. For all lab lessons you 
+will be required to use the submit mode to run your programs against the test 
+Running your 
+cases.  
+C++ Programs 
+ 
+ 
+You should use the development tool recommended by your CS 1336 professor.  
+ 
+You can do all of the labs on the equipment in the lab room ECSS 2.103 and in 
+ECSS 2.104. You are not required to have a compiler on your own system.  
+ 
+ 
+Tentative Class Schedule (all dates are subject to change at the discretion 
+ 
+of the instructor. Any changes will be posted to the Lab lessons area on 
+eLearning). Your CS 1336 class (the lecture class) should be the one 
+specified in the table at the end of this syllabus.  
+Monday (Start of week)  Description  Sunday (Due Date) 
+ 
+January 14, 2019  Kick-off 
+ 
+January 21, 2019  Open week (no lab classes) 
+January 28, 2019  Lesson 1  Sunday,  Feb 3 2019 
+February 4, 2019  Lesson 2  Sunday,  Feb 10 2019 
+February 11, 2019  Lesson 3  Sunday,  Feb 17 2019 
+ 
+February 18, 2019  Lesson 4 
+February 25, 2019  Lesson 4 (Continued)  Sunday,  Mar 3 2019 
+ 
+March 4, 2019  Lesson 5 
+March 11, 2019  Lesson 5 (Continued)  Sunday,  Mar 17 2019 
+ 
+March 18, 2019  Spring Break 
+March 25, 2019  Lesson 6  Sunday,  Mar 31 2019 
+April 1, 2019  Lesson 7  Sunday,  Apr 7 2019 
+April 8, 2019  Lesson 8  Sunday,  Apr 14 2019 
+April 15, 2019  Lesson 9  Sunday,  Apr 21 2019 
+ 
+April 22, 2019  Lessons 10 and 11 
+April 29, 2019  Lessons 10 and 11 (Continued)  Sunday,  May 5 2019 
+CS 1136.xxx A lab sequence – Spring 2019 – v2  
+Important Dates (Preliminary). All project and homework due dates will 
+be posted to eLearning. Any changes to test dates and times will be posted 
+on eLearning.  
+January 14  Classes start 
+January 21  Martin Luther King Day (School Closed) 
+January 30  Census Day, Last day to drop a class without a “W” 
+March 18 - 24  Spring break 
+March 28  Last Day to Withdraw 
+May 3  Last day of classes 
+May 4  Reading day 
+May 6 - 11  Final Exams. There are no exams for CS 1136 
+ 
+Course Policies  
+ 
+I will be communicating with you via eLearning and e-mail. If you need 
+to send me an e-mail make sure it is using your UTD e-mail address. 
+Always include your course and section number in any correspondence 
+(CS1136.xxx, where xxx is your section number).  
+ 
+For lab related questions you should use the Discussion Board on 
+eLearning. See the section “Tutoring” below for additional details.  
+Communications 
+ 
+Make sure you are checking eLearning announcements and checking your 
+UTD e-mail frequently (once a day at the minimum). 
+ 
+I will not respond to you via gmail or any other non-UTD e-mail system. I 
+need to verify that you are my student and I can only do that with the 
+UTD e-mail system.  
+Your grade will be based on the top 10 lab lesson grades out of the total 
+of 11 lab lessons assigned. The 11 lab lessons are on zyBooks. These lab 
+lessons have titles that start with “Lab Lesson” and end with “ – 
+REQUIRED”. For example, Lesson 1 on zyBooks has the title “Lesson 1 
+(Parts 1, and 2) – Required.  
+ 
+Each of the 11 lab lessons has 1 to 3 parts. You need to make sure you do 
+all of the parts correctly to earn the 100 points for that lab.  
+ 
+Each lab lesson part on zyBooks has one or more tests. To get any points 
+for a test you must pass that test. No partial credit is given for the 
+individual tests. If a lab lesson part has multiple tests you can get points 
+Required Work 
+for some tests and not for others.  
+ 
+There are also optional parts that will start with the text “Gaddis Chapter” 
+and contain the text “BONUS”. For example the first optional unit on 
+zyBooks is “Gaddis Chapter 1 - Introduction to Computers and 
+Programming - BONUS - Due with Lab Lesson 1”. The optional bonus 
+units are worth up to 10 points each.  The optional unit in zyBooks 
+contain on-line lecture materials that supplement what is covered in the 
+corresponding chapters in your CS 1336 Gaddis text book.  
+ 
+The due dates for all of the assignments (the lab lessons and the optional 
+bonus points) are on eLearning in the entry “Lab lessons” and on zyBooks 
+CS 1136.xxx A lab sequence – Spring 2019 – v2 on the “Assignments” tab. Most of the bonus sections have two lab 
+lessons associated with them. The due date for the bonus unit may be after 
+the lab lesson that immediately comes after it. For example The “Gaddis 
+Chapter 4” bonus unit is unit 7 in zyBooks. Lab lesson 4 is unit 8 and Lab 
+lesson 5 is unit 9. The due date for Lab Lesson 4 is BEFORE the due date 
+for the bonus unit “Gaddis Chapter 4”.   
+ 
+Make sure you fully understand what is required and what is optional for 
+this course. Also make sure you know the due dates for the required and 
+bonus units in zyBooks. If you have any questions ask me, and I will clear 
+up any misunderstandings. 
+ 
+The grades for each lab lesson will be posted to eLearning. The lab lesson 
+is worth up to 100 points. If you also do the optional extra credit work 
+you can get up to 10 additional points. Only some of the lab lessons have 
+extra credit. For those lab lessons with extra credit you can get up to 110 
+points. If you are getting less than 100 (or 110) points it is because you 
+have not successfully done all of the work for a given lab lesson.   
+Each lab lesson will be graded. Your grade is based on the top 10 grades 
+Make-up Work  earned for the 11 lab lessons. Since the lowest grade is not used to 
+compute your final grade there are no make-up assignments.  
+Extra credit is available on some of the labs when you complete the 
+Participation Activities and Challenge Activities for zyBooks/zyLabs 
+units that contain the text “Gaddis Chapter” and “BONUS”.  
+ 
+Note that the Participation Activities and Challenge Activities are totally 
+optional. Doing all of the Participation Activities and Challenge Activities 
+for a given unit will earn you 10 bonus points. Partial credit will be given 
+if you only do some of the Participation Activities and Challenge 
+Activities.  
+ 
+Extra Credit  You must do the lab lessons that start with “Lab Lesson” on zyBooks.  
+These lab lessons are not optional. They are the course. Note that the 
+Participation Activities and Challenge Activities are in units that come 
+before the corresponding Lab Lesson units on zyBooks.  Also for units 
+with two lab lessons the due date for the Participation Activities and 
+Challenge Activities bonus points may be after the due date for some of 
+the lab lessons that follow the optional bonus unit.  
+ 
+The due dates for all of the assignments (the lab lessons and the optional 
+bonus units) are on eLearning in the entry “Lab lessons” and on zyBooks 
+on the “Assignments” tab. The due dates are also on zyBooks. 
+You should have your labs completed by the end of your lab session. You 
+are, however, given until the Sunday after the lab to get the assignment 
+submitted for grading.  
+ 
+Some labs are assigned and due the same week. Other labs are assigned 
+one week and due the next week.  
+ 
+Late Work 
+The dates on eLearning for lab lessons 1 through 11 are the Sunday date 
+when the labs are due. Your labs will be due at 10:00 PM. However, labs 
+will be accepted without a penalty until 11:59 PM on the due date. 
+Anything submitted after 11:59 PM will be assigned a grade of zero.  
+ 
+It is your responsibility to make sure you have submitted the correct files 
+to zyBooks and successfully run your programs in submit mode. You 
+CS 1136.xxx A lab sequence – Spring 2019 – v2 must do this by the due date. Failure to do this will result in a grade of 
+zero.  
+All work you submit must be your work. If you ask others for help (other 
+students, the mentor center, etc.) you must ensure that you submit only 
+work that you have, personally, performed. Group submissions are not 
+allowed. Some code will be given to you as part of the assignment, you 
+can use that code as needed and don’t have to rewrite it. Feel free to share 
+ideas on solving the problem presented by a homework or project 
+assignment, but DO NOT SHARE ANY CODE. When discussing logic, 
+keep it general. If you give out every little piece of logic you have, there 
+is a good chance the person you are helping will have very similar code as 
+yours and may be flagged for being too similar. 
+ 
+Students should avoid using web sites like GitHub and Chegg for help on 
+projects. Copying code from a web site is considered plagiarism and will 
+be treated as such. If you find code on a web site, it is highly likely 
+another student will find it as well which may cause both submissions to 
+be flagged for similarity. 
+Your Work   
+Some or all of the submissions to zyBooks will be compared for 
+originality. Any projects that are approximate or identical copies will be 
+reported to the Office of Community Standards and Conduct, and I will 
+accept their decision in regards to the grade if they believe that academic 
+dishonesty has occurred. 
+ 
+Keep in mind that you always want to write code that is easy to 
+understand and is also easy to maintain. Fewer lines do not necessarily 
+mean a better program. Please use comments liberally. 
+ 
+When doing the lab lessons make sure you adhere to any C++ coding 
+requirements. If you do not adhere to these requirements points will be 
+deducted from your score. The bulk of your grade will be for passing the 
+tests (as long as you adhere to the other C++ requirements for the lab). 
+Part of your grade will be based on the style of your program. See the 
+zyBooks labs instructions for more details.  
+Very strongly suggested. You will do better in this class if you attend the 
+lab sessions. If you cannot make your lab session see if there is another 
+one you can attend. Your due date will still be the one for your lab 
+session.  
+ 
+Your on time submission of a lab lesson will indicate attendance.  
+Class Attendance 
+Missing 2 lab lessons is a 1 letter grade drop. Missing 3 lab lessons is a 2 
+letter grade drop. Missing 4 lab lessons (not in a row) is a 3 letter grade 
+drop.   
+ 
+If you miss 4 lab exercises in a row you will get an automatic F. If you 
+miss any 5 (even if not in a row) you will get an F in the class. 
+For programming assistance in CS1136, you should first work with the 
+lab assistants in the lab sessions. 
+ 
+You can post questions about lab lessons on a discussion board on 
+Tutoring 
+eLearning in section “Lab lesson discussions”. See the instructions on the 
+discussion board. There is a different entry for each of the lab lessons (1 
+through 11).  
+ 
+CS 1136.xxx A lab sequence – Spring 2019 – v2 The mentor center can also help with assignments, but you should make 
+use of the lab assistants first. 
+ 
+URL for the hours for the mentor center: 
+https://csmc.utdallas.edu 
+Classroom Citizenship  Professional at all times 
+Grading Policy 
+Lab lessons 100% of your grade. There are 11 lab lessons. All will be 
+graded. The lowest one of the 11 grades will be dropped when calculating 
+your final grade.  
+Grading (grades are not rounded):              
+A+    97 and above 
+A    93 - 96 (93 or more and less than 97) 
+  A-    90 - 92 (90 or more and less than 93) 
+Grading (credit) 
+B+    87 - 89 (87 or more and less than 90) 
+Criteria 
+B    83 - 86 (83 or more and less than 87) 
+B-    80 - 82 (80 or more and less than 83) 
+C+    77 - 79 (77 or more and less than 80) 
+C    73 - 76 (73 or more and less than 77) 
+C-    70 - 72 (70 or more and less than 73) 
+D    60 - 69 (60 or more and less than 70) 
+F    Below 60 
+ 
+This creed was voted on by the UT Dallas student body in 2014. It is a standard 
+that Comets choose to live by and encourage others to do the same: 
+Comet Creed 
+ 
+“As a Comet, I pledge honesty, integrity, and service in all that I do.”
+ 
+Additional Policies   Please visit http://go.utdallas.edu/syllabus-policies for other policies 
+ 
+Descriptions and timelines are subject to change at the discretion of the Professor. 
+ 
+The following table shows the lab sections supported by this syllabus and the rooms 
+where the labs are held. The Lecture course that corresponds to the lab sections is 
+also shown.  
+ 
+If your lab section does not match the CS 1336 section you are in you will be 
+responsible for doing the labs in this class even if you have not covered the topics in 
+your CS 1336 class. To avoid this you need to be in the correct lab section for the 
+lecture course you are taking.  
+ 
+Lab Section  Lab Room  Lecture Class Section 
+CS1136.101  ECSS 2.103  CS1336.001 
+CS1136.102  ECSS 2.103  CS1336.002 
+CS1136.103  ECSS 2.103  CS1336.003 
+CS1136.601  ECSS 2.103  CS1336.005 
+CS1136.104  ECSS 2.103  CS1336.503 
+ 
+CS 1136.xxx A lab sequence – Spring 2019 – v2 
